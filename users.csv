@@ -1,0 +1,4 @@
+user1@sourcedomain.com,"password of user1",user1@destinationdomain.com,"password of user1 of new domain"
+user2@sourcedomain.com,"password of user1",user2@destinationdomain.com,"password of user2 of new domain"
+user3@sourcedomain.com,"password of user1",user3@destinationdomain.com,"password of user3 of new domain"
+user4@sourcedomain.com,"password of user1",user4@destinationdomain.com,"password of user4 of new domain"
